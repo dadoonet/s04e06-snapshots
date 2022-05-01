@@ -1,0 +1,2 @@
+# Ignore the GCS credentials
+elasticsearch-config/service-account.json
