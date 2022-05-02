@@ -12,7 +12,7 @@ Open Kibana and remove the `elastic-daily-bytes` repository and the `person` ind
 
 ## Pre-run
 
-* Open [ELastic Cloud](https://cloud.elastic.co/) with the personal account.
+* Open [Elastic Cloud](https://cloud.elastic.co/) with the pro account.
 * Open [Elastic GCS plugin documentation](https://www.elastic.co/guide/en/elasticsearch/reference/8.1/repository-gcs.html#repository-gcs-creating-bucket)
 * Open [elastic-daily-bytes bucket configuration](https://console.cloud.google.com/storage/browser/elastic-daily-bytes;tab=configuration?prefix=&forceOnObjectsSortingFiltering=false)
 
